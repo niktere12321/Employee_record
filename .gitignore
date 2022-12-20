@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 sqlite.db
+*.db
 .db
+*.xlsx
 .xlsx
