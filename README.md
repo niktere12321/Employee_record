@@ -51,6 +51,14 @@ pip install -r requirements.txt
 alembic upgrade head
 ```
 
+* Запустить бота:
+```bash
+cd src/
+```
+```bash
+python app.py
+```
+
 ---
 ## Об авторе
 
